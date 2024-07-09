@@ -13,7 +13,7 @@ This repository contains the code for an ultrasonic obstacle detection system bu
 - Jumper wires
 - Breadboard
 - 
-## install
+## Install
 sudo apt install python3-rpi.gpio
 
 
