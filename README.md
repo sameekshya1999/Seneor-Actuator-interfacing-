@@ -1,3 +1,7 @@
+## Youtube
+https://www.youtube.com/watch?v=DIKyK_OgjB4
+
+
 # Seneor-Actuator-interfacing-
  The program provided serves as an educational tool to demonstrate the foundational concepts of sensor operation, actuator control, and interfacing using a Raspberry Pi. 
 
@@ -15,6 +19,5 @@ This repository contains the code for an ultrasonic obstacle detection system bu
 - 
 ## Install
 sudo apt install python3-rpi.gpio
-
 
 
